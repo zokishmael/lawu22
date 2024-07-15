@@ -1,0 +1,48 @@
+{
+  "theme_color": "#e93f24",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "https://lawu22.com/",
+  "start_url": "https://lawu22.com/",
+  "name": "Lawu22.com",
+  "short_name": "lAWU 22",
+  "description": "Portal Berita Papua Selatan",
+  "icons": [
+    {
+      "src": "/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia5KM48oG4_quhj0lQctCWC4yGgGzJBPKZ3JEX_icHwdyUviGo0x4v1F_gFMfbV_0jinisMrYbxozOBjPrLoLG6awkKMIJRE1Pw18PPG1VRSSs-cLSnNPLeDT0ZzLkUZ28yORRWLg6NOUSqwbIssjgDq_mcHdpcFNGfXYDK-zMWsrSwg-xxSWcJLK_AYA/s36/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7t_VygtzBDeMxDkOXVTk3ssr0VvmPyea5Ydyu2yFe13pSQiKD9kqM43sSPz0MNUrNg0VSe_O_zwlxnXmth0vikdJ3fuSG_bm15xKVZC0b-Ufj9Ne1pj0CdlORmIOgXj_MDvRP-fMniOZkrv_Mahszi7va4Hhmr8Cnnc02GxpTYaE2SxAhbvnc2N-HMOA/s48/android-icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNS3BcoIRw9q2Us6i6fT1275s3o70FO1ZGw3plSfLRp9EpfwcwyPGMEPbLF1USon5qVLJtijfhz4ZX33mehQYBqpRPd_SN2oZBq6esFtW8j8SorDEUEFj6XaXMBRIOsJyDnAdLGzYH5goftCpBIYTtDFsWEVOSfp9Dsvxsj7zWJsvWuBYfGnD4AbhnmQ0/s72/android-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfJwalkAr8W-bdVzQFphv3daCrNAkkut0A0OAHoHkQ8H99d-MvxWn_5gMige3_yGzbtC1Z4cDCbZElDmMWKm1FLpipe4gdHN_CJ3u-VrcyMI5X7XdebK1sKSp5-LYVul6Vi7JqtspwfAk3PCkEdWUbC2bUqsBu4MS5L7jwrV7Jrznsds2WqYjnNUA54ho/s96/android-icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMKzpKPeRtEOJ2aFBu-OxZ10Dz5wXTZ6h4a0vogQyBzqZdJmX6uqcEyuYf8NMN2Bcns_Vg6mkZdBGxLIGe70t0XcOoEpDTPlVMjcrf2nNkQjmZ5r6eIQMn0PhIMPQAUl7T78KOX_sXUvRv1HEPCJZJbXhesH8OHTRLuFG0S8QnpdQIejq1qBXeG-hAQ6s/s144/android-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    },
+    {
+      "src": "/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjWZmBTcjWUowoWSnDzP2pmHKn8qbI-WVYLTGF1GolUqtRN646WBYuHJiMAnJ2NRab-ymzj8QBJLBnhYF8zOP3MFHOxc3QWiupopF02R3DUIriP4GeDNMA_jnb6DQnrVgmgszpsa_0dOzEkSZ70Oxv0dflH6u0pJHjZaxyiDoxUyZzMHZ4sq4lE6WCtvQ/s192/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0"
+    }
+  ]
+}
